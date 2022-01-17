@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hasan Albar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Frontend/Application developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanzz817&label=Profile%20views&color=0e75b6&style=flat" alt="hassanzz817" /> </p>
 
 <p align="left"> <a href="https://twitter.com/halbar05" target="blank"><img src="https://img.shields.io/twitter/follow/halbar05?logo=twitter&style=for-the-badge" alt="halbar05" /></a> </p>
 
+- 📫 How to reach me **tfshan05@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/halbar05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="halbar05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasan al-bar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan al-bar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hasan-al-bar-65b311128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hasan-al-bar-65b311128/" height="30" width="40" /></a>
 <a href="https://discord.gg/HassanZz-817#1733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="HassanZz-817#1733" height="30" width="40" /></a>
 </p>
 
