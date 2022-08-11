@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassan Al-bar</h1>
 <h3 align="center">Follow me on my journey into the world of programming!<br> 💻 From wasting time... to investing it⌛ I aspire to become a mobile developer 📱</h3>
 
-<p align="left"> <a href="https://twitter.com/@halbar05" target="blank"><img src="https://img.shields.io/twitter/follow/@halbar05?logo=twitter&style=for-the-badge" alt="@halbar05" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
